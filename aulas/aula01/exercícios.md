@@ -13,10 +13,10 @@ Faça um programa que pega recebe o nome, marca e o ano de um carro, e mostre as
 **Saída:**
 ```python
 
-# Vendo carro: Civic, da marca Honda,ano: 2022
+Vendo carro: Civic, da marca Honda,ano: 2022
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2MTcxODI0LDEwMzMzNzk0MjgsNjQ2Nz
-M0MTM0XX0=
+eyJoaXN0b3J5IjpbMTA2NTA1NjY1OSwxMDMzMzc5NDI4LDY0Nj
+czNDEzNF19
 -->
