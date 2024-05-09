@@ -1,8 +1,7 @@
 
-## Resoluções Aula 01
+## Resoluções  -  Operadores de Concatenação
 
-
-**Ex 01 - Operadores de Contatenação:**
+### Ex 01 - Venda de Carros:
 
 Faça um programa que pega recebe o nome, marca e o ano de um carro, e mostre as informações no terminal seguindo o modelo de saída:
 
@@ -19,8 +18,7 @@ Vendo carro: Civic, da marca Honda,ano: 2022
 
 ```
 
-
-**Resolução em Python:**
+#### Resolução em Python:
 
 ```python
 
@@ -33,7 +31,7 @@ print(f"Vendo carro: {nome}, da marca {marca},ano: {ano}")
 ```
 
 
-**Resolução em JavaScript:**
+#### Resolução em JavaScript:
 
 ```js
 
@@ -45,5 +43,5 @@ print(`Vendo carro: ${nome}, da marca ${marca},ano: ${ano}`)
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDAwOTM5NCw5NTMzNTYwNDldfQ==
+eyJoaXN0b3J5IjpbLTYwMzE1NDE3Miw5NTMzNTYwNDldfQ==
 -->
