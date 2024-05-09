@@ -1,7 +1,7 @@
 
 ## Resoluções Aula 01
 
-### Operadores
+
 **Ex 01 - Operadores de Contatenação:**
 
 Faça um programa que pega recebe o nome, marca e o ano de um carro, e mostre as informações no terminal seguindo o modelo de saída:
@@ -45,5 +45,5 @@ print(`Vendo carro: ${nome}, da marca ${marca},ano: ${ano}`)
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzMzU2MDQ5XX0=
+eyJoaXN0b3J5IjpbMTQ1NDAwOTM5NCw5NTMzNTYwNDldfQ==
 -->
