@@ -1,5 +1,5 @@
 
-## Exercícios -  Estruturas condicionais [
+## Exercícios -  Estruturas condicionais
 
 ### Ex 01 - Caixa:
 
@@ -8,6 +8,10 @@ Escreva um algoritmo que calcule o índice de Massa Corporal (IMC) de uma pessoa
 IMC = peso / altura ^ 2
 
 O programa deve solicitar ao usuário que insira seu peso (em kg) e sua altura (em metros). Em seguida, o programa deve calcular o IMC e classificar o resultado de acordo com a tabela abaixo:
+
+**Entradas:**
+- Peso (em kg)
+- Altura (em metros)
 
 **Saídas:**
 
@@ -18,6 +22,6 @@ O programa deve solicitar ao usuário que insira seu peso (em kg) e sua altura (
 - IMC entre 35 e 39.9: Obesidade grau II
 - IMC acima de 40 e 24.9: Obesidade grau III
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTIyMjI4MSwzNjAzOTIzNywxNTA5MD
+eyJoaXN0b3J5IjpbMTM2NzgyNjM1OCwzNjAzOTIzNywxNTA5MD
 M4Mzg2XX0=
 -->
