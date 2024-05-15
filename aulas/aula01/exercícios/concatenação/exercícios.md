@@ -12,8 +12,12 @@ O programa deve solicitar ao usuário que insira seu peso (em kg) e sua altura (
 ### Exemplo:
 **Saídas:**
 
-- 
+- IMC abaixo de 18.5: Abaixo de preço
+- IMC entre 18.5 e 24.9: Peso normal
+- IMC entre 25 e 29.9: Peso normal
+- IMC entre 30 e 34.9: Peso normal
+- IMC acima de 40 e 24.9: Peso normal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk1MzgzNDMsMzYwMzkyMzcsMTUwOT
-AzODM4Nl19
+eyJoaXN0b3J5IjpbLTYwNTU4NzM3MywzNjAzOTIzNywxNTA5MD
+M4Mzg2XX0=
 -->
