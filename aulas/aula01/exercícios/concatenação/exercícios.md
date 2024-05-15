@@ -1,7 +1,7 @@
 
 ## Exercícios -  Estruturas condicionais
 
-### Ex 01 - Caixa:
+### Ex 01 - IMC:
 
 Escreva um algoritmo que calcule o índice de Massa Corporal (IMC) de uma pessoa e forneça uma classificação baseada no resultado. O IMC é calculado pela fórmula:
 
@@ -22,6 +22,6 @@ O programa deve solicitar ao usuário que insira seu peso (em kg) e sua altura (
 - IMC entre 35 e 39.9: Obesidade grau II
 - IMC acima de 40 e 24.9: Obesidade grau III
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzgyNjM1OCwzNjAzOTIzNywxNTA5MD
-M4Mzg2XX0=
+eyJoaXN0b3J5IjpbLTE3MTUzMzU0MjMsMTM2NzgyNjM1OCwzNj
+AzOTIzNywxNTA5MDM4Mzg2XX0=
 -->
