@@ -3,23 +3,17 @@
 
 ### Ex 01 - Caixa:
 
-Faça um algoritmo que recebe o valor bancário, e verifica se o  valor é maior ou menor que o valor de um produto, se for menor, ele retorna ``Compra negada``, se for maior, ele retorna ``Compra aprovada``
+Escreva um algoritmo que calcule o índice de Massa Corporál (IMC) de uma pessoa e forneça uma classificação baseada no resultado. O IMC é calculado pela fórmula:
+
+IMC = peso / altura ^ 2
+
+O programa deve solicitar ao usuário que insira seu peso (em kg) e sua altura (em metros). Em seguida, o programa deve calcular o IMC e classificar o resultado de acordo com a tabela abaixo:
 
 ### Exemplo:
+**Saídas:**
 
-**Entradas:**
-
-- Valor da Conta: 
-- Valor do Produto
-
-
-**Saída:**
-```python
-
-Vendo carro: Civic, da marca Honda,ano: 2022
-
-```
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzAxMTg3OCwzNjAzOTIzNywxNTA5MD
-M4Mzg2XX0=
+eyJoaXN0b3J5IjpbLTEwMDk1MzgzNDMsMzYwMzkyMzcsMTUwOT
+AzODM4Nl19
 -->
