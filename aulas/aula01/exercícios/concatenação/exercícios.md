@@ -1,17 +1,17 @@
 
-## Exercícios -  Operadores  e 
+## Exercícios -  Estruturas condicionais [
 
+### Ex 01 - Caixa:
 
-### Ex 01 - Venda de Carros:
+Faça um algoritmo que recebe o valor bancário, e verifica se o  valor é maior ou menor que o valor de um produto, se for menor, ele retorna ``Compra negada``, se for maior, ele retorna ``Compra aprovada``
 
-Faça um programa que pega recebe o nome, marca e o ano de um carro, e mostre as informações no terminal seguindo o modelo de saída:
-
+### Exemplo:
 
 **Entradas:**
 
-- Carro: Civc
-- Marca: Honda
-- Ano: 2022
+- Valor da Conta: 
+- Valor do Produto
+
 
 **Saída:**
 ```python
@@ -20,6 +20,6 @@ Vendo carro: Civic, da marca Honda,ano: 2022
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0Mjg1NTI4LDM2MDM5MjM3LDE1MDkwMz
-gzODZdfQ==
+eyJoaXN0b3J5IjpbLTc3MzAxMTg3OCwzNjAzOTIzNywxNTA5MD
+M4Mzg2XX0=
 -->
