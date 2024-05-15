@@ -20,8 +20,8 @@ O programa deve solicitar ao usuário que insira seu peso (em kg) e sua altura (
 - IMC entre 25 e 29.9: Sobrepeso
 - IMC entre 30 e 34.9: Obesidade grau I
 - IMC entre 35 e 39.9: Obesidade grau II
-- IMC acima de 40 e 24.9: Obesidade grau III
+- IMC acima de 40 : Obesidade grau III
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTUzMzU0MjMsMTM2NzgyNjM1OCwzNj
-AzOTIzNywxNTA5MDM4Mzg2XX0=
+eyJoaXN0b3J5IjpbMTM5NzIzOTIwOSwtMTcxNTMzNTQyMywxMz
+Y3ODI2MzU4LDM2MDM5MjM3LDE1MDkwMzgzODZdfQ==
 -->
