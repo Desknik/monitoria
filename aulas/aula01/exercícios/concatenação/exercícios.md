@@ -1,5 +1,5 @@
 
-## Exercícios -  Operadores de Concatenação
+## Exercícios -  Operadores  e 
 
 
 ### Ex 01 - Venda de Carros:
@@ -20,5 +20,6 @@ Vendo carro: Civic, da marca Honda,ano: 2022
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwMzkyMzcsMTUwOTAzODM4Nl19
+eyJoaXN0b3J5IjpbODQ0Mjg1NTI4LDM2MDM5MjM3LDE1MDkwMz
+gzODZdfQ==
 -->
